@@ -67,8 +67,7 @@ a:active{
     border-width: 1px;
     border-color: black;
     border-style: solid;
-    float: left;
-
+    float: centre;
 }
 .right {
     width: 20%;
