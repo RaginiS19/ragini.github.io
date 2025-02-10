@@ -19,7 +19,7 @@ a:active{
     color: #f3f
 }
 .logo{
-    font: size 336px;
+    font: size 500px;
 }
 #navlist li {
     display: inline;
@@ -60,14 +60,14 @@ a:active{
     float: left;
 }
 .centre {
-    width: 47%;
+    width: 60%;
     margin: 10px;
     padding: 10px;
     background-color: #CCC;
     border-width: 1px;
     border-color: black;
     border-style: solid;
-    float: centre;
+    float: left;
 }
 .right {
     width: 20%;
